@@ -1,0 +1,45 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_InputPath",
+      "DisplayName": "in_InputPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\HenriquePenna\\Documents\\UiPath\\CalendarAutomation\\2. Input",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_OutputPath",
+      "DisplayName": "in_OutputPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\HenriquePenna\\Documents\\UiPath\\CalendarAutomation\\3. Output",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_TempPath",
+      "DisplayName": "in_TempPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\HenriquePenna\\Documents\\UiPath\\CalendarAutomation\\4. Temp",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
